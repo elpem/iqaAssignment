@@ -1,2 +1,2 @@
-# iqaAssignment
-A little image processing assignment. The purpose is to think and design a new objective image assessment method.
+# DIPAssignments
+Here are the 4 assignments I did for the course Digital Image Processing, in Shanghai Jiaotong University.
