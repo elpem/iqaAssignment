@@ -1,0 +1,1 @@
+To execute the script, just open script.m in matlab and execute it. The execution time on my laptop is about 30s.
